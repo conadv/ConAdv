@@ -18,9 +18,6 @@ cd models/official/resnet
 ## Cloud TPUs #
 
 This repository is based on
-[Cloud TPUs](https://cloud.google.com/tpu/).
+[Cloud TPUs].
 
 
-## Reference
-
-[TensorFlow/TPU](https://github.com/tensorflow/tpu). (https://github.com/tensorflow/tpu)
