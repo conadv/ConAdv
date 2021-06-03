@@ -4,7 +4,7 @@ To run models in the `models` subdirectory, you may need to add the model direct
 `/models` folder to the Python path with the command:
 
 ```
-export MODEL_DIR="gs://lucas_time/model_2"
+export MODEL_DIR="gs://model"
 export PYTHONPATH="$HOME/ConAdv/models/"
 ```
 Then,
