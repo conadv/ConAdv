@@ -1,10 +1,11 @@
 ## How to run the code
 
-To run models in the `models` subdirectory, you may need to add the top-level
+To run models in the `models` subdirectory, you may need to add the model directory and the top-level
 `/models` folder to the Python path with the command:
 
 ```
-export PYTHONPATH="$PYTHONPATH:/path/to/models"
+export MODEL_DIR="gs://lucas_time/model_2"
+export PYTHONPATH="$HOME/ConAdv/models/"
 ```
 Then,
 ```
