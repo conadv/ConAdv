@@ -23,4 +23,4 @@ This repository is based on
 
 ## Reference
 
-[TensorFlow/TPU](https://github.com/tensorflow/tpu).
+[TensorFlow/TPU](https://github.com/tensorflow/tpu). https://github.com/tensorflow/tpu
