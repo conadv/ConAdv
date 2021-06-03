@@ -1,5 +1,4 @@
-export MODEL_DIR=gs://lucas_time/model_2
-export PYTHONPATH=$HOME/tpu_bn_asynch_hu/models/
+
 gsutil rm -R -f $MODEL_DIR/*
 for warm_lr in  43.0 
 do
